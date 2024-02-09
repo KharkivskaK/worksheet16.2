@@ -1,0 +1,21 @@
+#startButton {
+    padding: 10px 20px;
+    margin-left: 800px;
+    font-size: 16px;
+    color: black;
+    background-color: lightslategray;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#switchCameraButton{
+    padding: 10px 20px;
+    margin-left: 800px;
+    font-size: 16px;
+    color: black;
+    background-color: lightslategray;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
